@@ -30,7 +30,7 @@ Hugo themes: [themes.gohugo.io/hugo-paper](https://themes.gohugo.io/hugo-paper/)
 Inside the folder of your Hugo project, run:
 
 ```bash
-git submodule add https://github.com/nanxiaobei/hugo-paper themes/paper
+git submodule add https://github.com/soltancode/hugo-paper themes/paper
 ```
 
 Open `config.toml`, change `theme` to `"paper"`:
