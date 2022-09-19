@@ -3,9 +3,9 @@
 
 name = "Paper"
 license = "MIT"
-licenselink = "https://github.com/nanxiaobei/hugo-paper/blob/main/LICENSE"
+licenselink = "https://github.com/soltancode/hugo-paper/blob/main/LICENSE"
 description = "A simple, clean, flexible Hugo theme"
-homepage = "https://github.com/nanxiaobei/hugo-paper/"
+homepage = "https://github.com/soltancode/hugo-paper/"
 tags = ["Responsive", "Simple", "Clean", "Light", "White", "Blog"]
 features = ["Responsive", "One Column", "Blog"]
 min_version = "0.57.1"
